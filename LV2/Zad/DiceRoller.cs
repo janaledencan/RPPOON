@@ -4,16 +4,16 @@ using System.Text;
 
 namespace Zad
 {
-    internal class DiceRoller
+    internal class DiceRoller:ILogable
     {
         private List<Die> dice;
         private List<int> resultForEachRoll;
-        private ILogger logger;
+        //private ILogger logger;
 
-        public void SetLogger(ILogger logger)
+        /*public void SetLogger(ILogger logger)
         {
             this.logger = logger;
-        }
+        }*/
 
         public DiceRoller()
         {
@@ -45,12 +45,20 @@ namespace Zad
             get { return dice.Count; }
         }
 
-        public void LogRollingResults()
+      /*  public void LogRollingResults()
         {
+            
+        }*/
+
+        public string GetStringRepresentation()
+        {
+            StringBuilder sb = new StringBuilder();
+
             foreach(int result in this.resultForEachRoll)
-{
-                logger.Log(result.ToString());
+            {
+                sb.Append(result);
             }
+            return sb.ToString();
         }
     }
 }

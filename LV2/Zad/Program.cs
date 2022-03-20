@@ -34,8 +34,9 @@ namespace Zad
 
             
             ILogger consoleLogger = new ConsoleLogger();
-            diceRoller.SetLogger(consoleLogger);
-            diceRoller.LogRollingResults();
+            consoleLogger.Log(diceRoller);
+            /* diceRoller.SetLogger(consoleLogger);
+            diceRoller.LogRollingResults();*/
 
         }
     }

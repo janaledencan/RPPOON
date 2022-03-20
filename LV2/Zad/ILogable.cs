@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Zad
 {
-    internal interface ILogger
+    internal interface ILogable
     {
-        void Log(ILogable data);
+        string GetStringRepresentation();
     }
 }
