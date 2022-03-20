@@ -44,5 +44,13 @@ namespace Zad
         {
             get { return dice.Count; }
         }
+
+        public void LogRollingResults()
+        {
+            foreach(int result in this.resultForEachRoll)
+{
+                logger.Log(result.ToString());
+            }
+        }
     }
 }

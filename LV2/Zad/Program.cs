@@ -32,6 +32,11 @@ namespace Zad
 
             Console.WriteLine(stringBuilder.ToString());
 
+            
+            ILogger consoleLogger = new ConsoleLogger();
+            diceRoller.SetLogger(consoleLogger);
+            diceRoller.LogRollingResults();
+
         }
     }
 }
