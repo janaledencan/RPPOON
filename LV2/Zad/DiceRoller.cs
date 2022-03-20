@@ -8,6 +8,13 @@ namespace Zad
     {
         private List<Die> dice;
         private List<int> resultForEachRoll;
+        private ILogger logger;
+
+        public void SetLogger(ILogger logger)
+        {
+            this.logger = logger;
+        }
+
         public DiceRoller()
         {
             this.dice = new List<Die>();
