@@ -37,11 +37,24 @@ namespace Zad
         {
             StringBuilder sb = new StringBuilder();
 
-            foreach (int result in this.resultForEachRoll)
+            foreach (Die result in this.dice)
             {
-                sb.Append(result + " ");
+                sb.Append(result.GetNumberOfSides() + " ");
             }
             return sb.ToString();
+        }
+
+        //U klasu FlexibleDiceRoller dodati metodu koja uklanja samo kockice čiji broj stranica odgovara predanom joj argumentu.
+        public void DeleteCorrespondingDie(int numberOfSides)
+        {
+            for(int i = dice.Count - 1; i >= 0 ; i--)
+            {
+                if(numberOfSides == dice[i].GetNumberOfSides())
+                {
+                    dice.RemoveAt(i);
+                }
+            }
+            
         }
     }
 }

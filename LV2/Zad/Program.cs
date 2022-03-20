@@ -42,13 +42,16 @@ namespace Zad
 
             FlexibleDiceRoller flexibleDiceRoller = new FlexibleDiceRoller();
 
-            for (i = 0; i < numberOfDice; i++)
+            for (i = 0; i < numberOfDice - 10; i++)
             {
                 flexibleDiceRoller.InsertDie(new Die(6));
+                flexibleDiceRoller.InsertDie(new Die(3));
             }
             flexibleDiceRoller.RollAllDice();
             Console.WriteLine(flexibleDiceRoller.GetStringRepresentation());
 
+            flexibleDiceRoller.DeleteCorrespondingDie(6);
+            Console.WriteLine(flexibleDiceRoller.GetStringRepresentation());
         }
     }
 }

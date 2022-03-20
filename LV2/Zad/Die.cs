@@ -8,6 +8,13 @@ namespace Zad
     {
         private int numberOfSides;
         private RandomGenerator randomGenerator;
+
+        public int GetNumberOfSides()
+        {
+            return numberOfSides;
+        }
+
+
         public Die(int numberOfSides)
         {
             this.numberOfSides = numberOfSides;
