@@ -11,12 +11,12 @@ namespace Zad
         {   
             const int numberOfDice= 20;
             DiceRoller diceRoller = new DiceRoller();
-            Random randomGenerator = new Random();
+            
 
             int i;
             for(i=0; i < numberOfDice; i++)
             {
-                diceRoller.InsertDie(new Die(6,randomGenerator));
+                diceRoller.InsertDie(new Die(6));
             }
 
             diceRoller.RollAllDice();
