@@ -11,14 +11,16 @@ namespace Zad
         {   
             const int numberOfDice= 20;
             DiceRoller diceRoller = new DiceRoller();
-            
+            Random randomGenerator = new Random();
+
             int i;
             for(i=0; i < numberOfDice; i++)
             {
-                diceRoller.InsertDie(new Die(6));
+                diceRoller.InsertDie(new Die(6,randomGenerator));
             }
 
             diceRoller.RollAllDice();
+            
 
             StringBuilder stringBuilder = new StringBuilder();
             IList<int> rollingResults = diceRoller.GetRollingResults();
@@ -29,7 +31,6 @@ namespace Zad
             }
 
             Console.WriteLine(stringBuilder.ToString());
-            
 
         }
     }

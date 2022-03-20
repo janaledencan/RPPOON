@@ -8,10 +8,10 @@ namespace Zad
     {
         private int numberOfSides;
         private Random randomGenerator;
-        public Die(int numberOfSides)
+        public Die(int numberOfSides, Random randomGenerator)
         {
             this.numberOfSides = numberOfSides;
-            this.randomGenerator = new Random();
+            this.randomGenerator = randomGenerator;
         }
         public int Roll()
         {
