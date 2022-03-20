@@ -38,6 +38,17 @@ namespace Zad
             /* diceRoller.SetLogger(consoleLogger);
             diceRoller.LogRollingResults();*/
 
+
+
+            FlexibleDiceRoller flexibleDiceRoller = new FlexibleDiceRoller();
+
+            for (i = 0; i < numberOfDice; i++)
+            {
+                flexibleDiceRoller.InsertDie(new Die(6));
+            }
+            flexibleDiceRoller.RollAllDice();
+            Console.WriteLine(flexibleDiceRoller.GetStringRepresentation());
+
         }
     }
 }

@@ -6,5 +6,7 @@ namespace Zad
 {
     internal interface IManageDice
     {
+        void InsertDie(Die die);
+        void RemoveAllDice();
     }
 }

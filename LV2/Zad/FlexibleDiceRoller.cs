@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zad
 {
-    internal class FlexibleDiceRoller
+    internal class FlexibleDiceRoller:IDiceRoller, IManageDice
     {
         private List<Die> dice;
         private List<int> resultForEachRoll;
@@ -29,6 +29,19 @@ namespace Zad
             {
                 this.resultForEachRoll.Add(die.Roll());
             }
+        }
+
+
+
+        public string GetStringRepresentation()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            foreach (int result in this.resultForEachRoll)
+            {
+                sb.Append(result + " ");
+            }
+            return sb.ToString();
         }
     }
 }

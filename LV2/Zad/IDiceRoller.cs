@@ -4,10 +4,8 @@ using System.Text;
 
 namespace Zad
 {
-    internal interface IDiceRollercs
+    internal interface IDiceRoller
     {
-        void InsertDie();
-        void RemoveAllDice();
         void RollAllDice();
     }
 }
