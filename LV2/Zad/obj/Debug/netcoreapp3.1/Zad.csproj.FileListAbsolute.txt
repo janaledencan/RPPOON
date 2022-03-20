@@ -1,0 +1,14 @@
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.exe
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.deps.json
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.dll
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\bin\Debug\netcoreapp3.1\Zad.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.dll
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV2\Zad\obj\Debug\netcoreapp3.1\Zad.genruntimeconfig.cache
