@@ -98,6 +98,8 @@ namespace Tasks
             director.ConstructNotificationInfo("Family");
 
             //7.zad
+            ConsoleNotification clonedNotification = (ConsoleNotification)consoleNotification.Clone();
+            manager.Display(consoleNotification);
 
 
         }

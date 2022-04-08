@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
+/*Klasu ConsoleNotification iz primjera 3 izmijeniti tako da ugrađuje sučelje Protoype iz primjera 1.2. Ima li u
+konkretnom slučaju razlike između plitkog i dubokog kopiranja?*/
+
 namespace Tasks.Task4
 {
-    class ConsoleNotification
+    class ConsoleNotification: Prototype
     {
         public String Author { get; private set; }
         public String Title { get; private set; }
@@ -22,6 +25,11 @@ namespace Tasks.Task4
             this.Timestamp = time;
             this.Level = level;
             this.Color = color;
+        }
+
+        public Prototype Clone()
+        {
+            return (Prototype)this.MemberwiseClone();
         }
     }
 }
