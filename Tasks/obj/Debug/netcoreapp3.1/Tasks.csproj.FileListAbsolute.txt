@@ -1,0 +1,14 @@
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.exe
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV3\Tasks\obj\Debug\netcoreapp3.1\Tasks.genruntimeconfig.cache

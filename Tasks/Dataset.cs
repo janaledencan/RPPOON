@@ -44,7 +44,20 @@ namespace Tasks
 
         public Prototype Clone() //Deep
         {
-            return (Prototype)this.MemberwiseClone();
+            var clone = new Dataset();
+            
+            for(int i = 0; i < this.data.Count; i++)
+            {
+                clone.data.Add( new List<string>() );  
+                //clone.data[i] = this.data[i];
+
+                for(int j = 0; j < this.data[i].Count; j++)
+                {
+                    clone.data[i].Add(this.data[i][j]);
+                }
+            }
+             
+            return clone;
         }
     }
 }
