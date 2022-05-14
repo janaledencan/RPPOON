@@ -1,0 +1,14 @@
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.exe
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.deps.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.dll
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.dll
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.genruntimeconfig.cache

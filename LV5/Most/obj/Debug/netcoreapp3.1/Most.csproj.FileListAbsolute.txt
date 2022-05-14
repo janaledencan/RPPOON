@@ -1,0 +1,14 @@
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.exe
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.deps.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.dll
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\bin\Debug\netcoreapp3.1\Most.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.dll
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV5\Most\obj\Debug\netcoreapp3.1\Most.genruntimeconfig.cache
