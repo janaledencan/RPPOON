@@ -10,10 +10,25 @@ namespace ChainOfResponsibility
 {
     class PasswordValidator
     {
+        StringChecker stringChecker;
 
-        public PasswordValidator()
+        public PasswordValidator(StringChecker stringChecker)
         {
+            this.stringChecker = stringChecker;
+        }
 
+        public void SetNext(StringChecker nextChecker)
+        {
+            stringChecker.SetNext(nextChecker);
+        }
+
+        public bool ValidatePassword(string pasword)
+        {
+            if (stringChecker.Check(pasword))
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

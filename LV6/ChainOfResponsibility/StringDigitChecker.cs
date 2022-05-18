@@ -8,10 +8,15 @@ namespace ChainOfResponsibility
     {
         protected override bool PerformCheck(string stringToCheck)
         {
-            if (stringToCheck.Contains('1') || stringToCheck.Contains('2'))
-
-                return false;
-            return true;
+            for(int i=0; i<stringToCheck.Length; i++)
+            {
+                if (stringToCheck[i] >= 48 && stringToCheck[i] <= 57)
+                {
+                    return true;
+                }
+            }
+              return false;
+            
         }
     }
 }

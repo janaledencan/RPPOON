@@ -17,7 +17,18 @@ namespace ChainOfResponsibility
             logger.Log("Hello, it's me...", MessageType.WARNING);
 
             //6.
+            StringChecker stringChecker = new StringDigitChecker();
+            StringUpperCaseChecker upperCaseChecker = new StringUpperCaseChecker();
 
+            stringChecker.SetNext(upperCaseChecker);
+            Console.WriteLine(upperCaseChecker.Check("We are the heros..."));
+            Console.WriteLine(stringChecker.Check("123 223 323..."));   //IT DOESN'T WORK AS IT SHOULD
+
+            //7.
+            PasswordValidator passwordValidator = new PasswordValidator(stringChecker);
+            passwordValidator.SetNext(new StringLowerCaseChecker());
+
+            Console.WriteLine(passwordValidator.ValidatePassword("MyNameIs NOOO 123"));
         }
     }
 }

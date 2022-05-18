@@ -8,12 +8,9 @@ namespace ChainOfResponsibility
     {
         protected override bool PerformCheck(string stringToCheck)
         {
-            char[] newString = stringToCheck.ToCharArray();
-            char[] lowerCaseString = stringToCheck.ToLower().ToCharArray();
-
             for (int i = 0; i < stringToCheck.Length; i++)
             {
-                if (newString[i] == lowerCaseString[i])
+                if (stringToCheck[i] >= 97 && stringToCheck[i] <= 122)
                 {
                     return true;
                 }
