@@ -37,7 +37,7 @@ namespace Cursor
             {
                 product.ToString();
             }
-            Console.WriteLine("Radim li ?");
+            
         }
     }
 }

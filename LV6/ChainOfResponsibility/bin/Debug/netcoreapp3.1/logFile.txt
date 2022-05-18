@@ -1,0 +1,3 @@
+Hello, it's me...
+Type:WARNING
+ Time: 18.5.2022. 19:31:52
