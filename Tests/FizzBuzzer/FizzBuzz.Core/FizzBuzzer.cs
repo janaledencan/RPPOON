@@ -6,22 +6,21 @@ namespace FizzBuzz.Core
     {
         public string Convert(int number)
         {
-            if (number % 3 == 0 && number % 5 == 0)
-            {
-                return "FizzBuzz";
-            }
+            string convertedNumber = "";
+
             if (number % 3 == 0)
             {
-                return "Fizz";
+                convertedNumber +="Fizz";
             }
             if (number % 5 == 0)
             {
-                return "Buzz";
+                convertedNumber += "Buzz";
             }
-            else
+            if(String.IsNullOrEmpty(convertedNumber))
             {
-                return number.ToString();
+                convertedNumber = number.ToString();
             }
+            return convertedNumber;
         }
     }
 }
