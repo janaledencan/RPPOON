@@ -1,0 +1,10 @@
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\bin\Debug\netcoreapp3.1\FizzBuzz.Core.deps.json
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\bin\Debug\netcoreapp3.1\FizzBuzz.Core.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\bin\Debug\netcoreapp3.1\FizzBuzz.Core.pdb
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\FizzBuzzer\FizzBuzz.Core\obj\Debug\netcoreapp3.1\FizzBuzz.Core.pdb

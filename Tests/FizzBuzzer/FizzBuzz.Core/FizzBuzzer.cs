@@ -6,6 +6,10 @@ namespace FizzBuzz.Core
     {
         public string Convert(int number)
         {
+            if (number % 3 == 0 && number % 5 == 0)
+            {
+                return "FizzBuzz";
+            }
             if (number % 3 == 0)
             {
                 return "Fizz";
@@ -13,10 +17,6 @@ namespace FizzBuzz.Core
             if (number % 5 == 0)
             {
                 return "Buzz";
-            }
-            if (number % 3 == 0 || number % 5 == 0)
-            {
-                return "FizzBuzz";
             }
             else
             {
