@@ -46,7 +46,7 @@ namespace SmallestElement.Test
 
 
             // Act/Assert
-            Assert.Throws<IndexOutOfRangeException>(() => element.FindTheSmallestElement(input));
+            Assert.Throws<ArgumentException>(() => element.FindTheSmallestElement(input));
         }
 
     }

@@ -10,7 +10,7 @@ namespace SmallestElement.Core
 
             if(numbers.Length == 0)
             {
-                throw new IndexOutOfRangeException();
+                throw new ArgumentException();
             }
             else
             {

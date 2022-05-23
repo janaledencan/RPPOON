@@ -1,0 +1,17 @@
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.exe
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.deps.json
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.UI.pdb
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.Core.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\bin\Debug\netcoreapp3.1\SmallestElement.Core.pdb
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.csproj.CopyComplete
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.pdb
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.Core\obj\Debug\netcoreapp3.1\SmallestElement.UI.genruntimeconfig.cache
