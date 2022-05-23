@@ -1,0 +1,10 @@
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\bin\Debug\netcoreapp3.1\SmallestElement.Core.deps.json
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\bin\Debug\netcoreapp3.1\SmallestElement.Core.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\bin\Debug\netcoreapp3.1\SmallestElement.Core.pdb
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.dll
+D:\Faks\4.semestar\RPPOON\LV\Tests\Task1\SmallestElement.UI\obj\Debug\netcoreapp3.1\SmallestElement.Core.pdb
