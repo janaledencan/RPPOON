@@ -1,0 +1,14 @@
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.exe
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.deps.json
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.runtimeconfig.json
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.runtimeconfig.dev.json
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.dll
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\bin\Debug\netcoreapp3.1\Visitant.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.AssemblyInfoInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.AssemblyInfo.cs
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.dll
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitant\obj\Debug\netcoreapp3.1\Visitant.genruntimeconfig.cache

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "SortStrategy\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "..\Visitor\Observer.csproj", "{6EE0A168-60B3-43FC-AA54-20C7538FD74F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitant", "..\Visitant\Visitant.csproj", "{22AE3267-1166-4C19-9B4A-6470DBA8F883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6EE0A168-60B3-43FC-AA54-20C7538FD74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE0A168-60B3-43FC-AA54-20C7538FD74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE0A168-60B3-43FC-AA54-20C7538FD74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AE3267-1166-4C19-9B4A-6470DBA8F883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AE3267-1166-4C19-9B4A-6470DBA8F883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AE3267-1166-4C19-9B4A-6470DBA8F883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AE3267-1166-4C19-9B4A-6470DBA8F883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
