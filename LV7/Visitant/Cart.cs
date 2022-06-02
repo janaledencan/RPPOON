@@ -2,11 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*Dodati klasu Cart koja predstavlja kolekciju/agregaciju stavki iz primjera. Ona omogućuje ubacivanje i uklanjanje stavki. 
- * Također, i ona pruža mogućnost korištenja posjetitelja. Njena metoda Accept() redom poziva istu na svim stavkama koje drži 
- * te vraća zbroj. Izmijeniti posjetitelja za izračun cijene iznajmljivanja tako da cijena iznajmljivanja programske podrške 
- * bude jednaka cijeni prodaje.*/
-
 namespace Visitant
 {
     class Cart

@@ -27,6 +27,15 @@ namespace Visitant
             DVD dvd2 = new DVD("Windows", DVDType.SOFTWARE, 3000);
             Console.WriteLine(dvd2.Accept(rentVisitor));
 
+            //7.
+            Cart cart = new Cart();
+            cart.Add(vhs);
+            cart.Add(dvd);
+            cart.Add(book);
+            cart.Add(dvd2);
+
+            Console.WriteLine(cart.Accept(rentVisitor));
+
         }
     }
 }
