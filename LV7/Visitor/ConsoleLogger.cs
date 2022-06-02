@@ -10,7 +10,6 @@ namespace Observer
     {
         public void Log(SimpleSystemDataProvider provider)
         {
-            //implementation missing
             Console.WriteLine(DateTime.Now + "-> CPU load: " +
             provider.CPULoad + " Available RAM: " + provider.AvailableRAM);
         }

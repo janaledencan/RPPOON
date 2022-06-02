@@ -15,10 +15,11 @@ namespace Observer
             this.previousCPULoad = this.CPULoad;
             this.previousRAMAvailable = this.AvailableRAM;
         }
+
         public float GetCPULoad()
         {
             float currentLoad = this.CPULoad;
-            if (currentLoad != this.previousCPULoad)
+            if (Math.Abs(currentLoad - this.previousCPULoad) >= 0.1 * previousCPULoad)
             {
                 this.Notify();
             }
@@ -27,9 +28,9 @@ namespace Observer
         }
         public float GetAvailableRAM()
         {
-            // implementation missing
+
             float currentRAM = this.AvailableRAM;
-            if (currentRAM != this.previousRAMAvailable)
+            if (Math.Abs(currentRAM -this.previousRAMAvailable) >= 0.1 * previousRAMAvailable)
             {
                 this.Notify();
             }
