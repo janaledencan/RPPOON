@@ -1,0 +1,7 @@
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\bin\Debug\Visitor.exe.config
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\bin\Debug\Visitor.exe
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\bin\Debug\Visitor.pdb
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\obj\Debug\Observer.csproj.AssemblyReference.cache
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\obj\Debug\Visitor.exe
+D:\Faks\4.semestar\RPPOON\LV\LV7\Visitor\obj\Debug\Visitor.pdb

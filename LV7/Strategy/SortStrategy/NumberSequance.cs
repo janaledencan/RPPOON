@@ -19,6 +19,12 @@ namespace Strategy
         {
             array.CopyTo(this.sequence, 0);
         }
+
+        public NumberSequence(SortStrategy sortStrategy, double[] array): this(array)
+        {
+            this.sortStrategy = sortStrategy;
+            this.searchStrategy = new LinearSearch();
+        }
         public void InsertAt(int index, double value)
         {
             this.sequence[index] = value;
